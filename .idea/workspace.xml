@@ -1,0 +1,1171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60976208-0619-4a9e-bfa3-c3bb9a53d767" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/assets/images/apple-touch-icon-retina.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/assets/images/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/assets/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/assets/images/grails-cupsonly-logo-white.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/assets/images/skin/database_add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/assets/images/skin/database_delete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/assets/images/skin/database_edit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/assets/images/skin/database_save.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/assets/images/skin/database_table.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/assets/images/skin/exclamation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/assets/images/skin/house.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/assets/images/skin/information.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/assets/images/skin/shadow.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/assets/images/skin/sorted_asc.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/assets/images/skin/sorted_desc.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/assets/images/spinner.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/assets/javascripts/application.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/assets/javascripts/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/assets/javascripts/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/assets/javascripts/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/assets/javascripts/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/assets/javascripts/jquery-2.2.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/assets/javascripts/latihan.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/conf/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/conf/logback.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/conf/spring/resources.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/controllers/latihan/MerchantsController.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/controllers/latihan/OrderItemsController.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/controllers/latihan/OrdersController.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/controllers/latihan/ServicesController.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/controllers/latihan/UrlMappings.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/controllers/latihan/UsersController.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/domain/latihan/Merchants.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/domain/latihan/OrderItems.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/domain/latihan/Orders.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/domain/latihan/Services.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/domain/latihan/Users.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/i18n/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/i18n/messages_cs_CZ.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/i18n/messages_da.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/i18n/messages_de.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/i18n/messages_es.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/i18n/messages_fr.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/i18n/messages_it.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/i18n/messages_ja.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/i18n/messages_nb.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/i18n/messages_nl.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/i18n/messages_pl.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/i18n/messages_pt_BR.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/i18n/messages_pt_PT.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/i18n/messages_ru.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/i18n/messages_sv.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/i18n/messages_th.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/i18n/messages_zh_CN.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/init/BootStrap.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/init/latihan/Application.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/views/error.gsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/views/index.gsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/views/layouts/main.gsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/views/merchants/create.gsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/views/merchants/edit.gsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/views/merchants/index.gsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/views/merchants/show.gsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/views/notFound.gsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/views/orderItems/create.gsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/views/orderItems/edit.gsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/views/orderItems/index.gsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/views/orderItems/show.gsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/views/orders/create.gsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/views/orders/edit.gsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/views/orders/index.gsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/views/orders/show.gsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/views/services/create.gsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/views/services/edit.gsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/views/services/index.gsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/views/services/show.gsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/views/users/create.gsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/views/users/edit.gsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/views/users/index.gsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grails-app/views/users/show.gsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/groovy/com/latihan/AppUtils.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/groovy/com/latihan/GlobalConfig.groovy" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="latihan" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/grails-app/controllers/latihan/UsersController.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/services/com/Latihan/UserService.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+              <folding>
+                <element signature="e#21#48#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GrailsSDKManager">
+    <option name="grailsSDKs">
+      <map>
+        <entry key="$PROJECT_DIR$" value="$USER_HOME$/.sdkman/candidates/grails/current" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/grails-app/domain/latihan/Cashier.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/conf/application.yml" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/grails-app/domain/latihan/Orders.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/latihan/OrdersController.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/views/users/create.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/domain/latihan/Services.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/domain/latihan/OrderItems.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/domain/latihan/Merchants.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/views/layouts/login.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/assets/javascripts/application.js" />
+        <option value="$PROJECT_DIR$/grails-app/views/layouts/notFound.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/layouts/main.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/index.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/domain/latihan/Users.groovy" />
+        <option value="$PROJECT_DIR$/src/main/groovy/com/latihan/GlobalConfig.groovy" />
+        <option value="$PROJECT_DIR$/src/main/groovy/com/latihan/AppUtils.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/services/com/Latihan/MemberServicesService.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/services/com/Latihan/UserService.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/latihan/UsersController.groovy" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="632" />
+    <option name="y" value="25" />
+    <option name="width" value="954" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="latihan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="latihan" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="latihan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="latihan" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name=".gradle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="latihan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="latihan" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="grails-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="latihan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="latihan" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="grails-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="latihan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="latihan" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="grails-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="latihan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="latihan" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="grails-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="stylesheet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="latihan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="latihan" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="grails-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="latihan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="latihan" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="grails-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="latihan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="latihan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="latihan" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="grails-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="latihan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="latihan" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="grails-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+              <item name="latihan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="latihan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="latihan" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="grails-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="latihan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="latihan" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="grails-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="Latihan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="latihan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="latihan" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="grails-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="Latihan" type="462c0819:PsiDirectoryNode" />
+              <item name="UserService.groovy" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="latihan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="latihan" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="latihan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="latihan" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="latihan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="latihan" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="groovy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="latihan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="latihan" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="groovy" type="462c0819:PsiDirectoryNode" />
+              <item name="latihan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="latihan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="latihan" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="latihan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="latihan" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="groovy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="latihan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="latihan" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="groovy" type="462c0819:PsiDirectoryNode" />
+              <item name="Latihan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="latihan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="latihan" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="groovy" type="462c0819:PsiDirectoryNode" />
+              <item name="latihan" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Grails" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1657866277357" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/grails-app/assets/javascripts" />
+      <recent name="$PROJECT_DIR$/grails-app/assets/stylesheets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Grails: latihan" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="grailsApplicationRoot" value="$PROJECT_DIR$" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60976208-0619-4a9e-bfa3-c3bb9a53d767" name="Default Changelist" comment="" />
+      <created>1657185230067</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657185230067</updated>
+      <workItem from="1657185231258" duration="5789000" />
+      <workItem from="1657246005432" duration="5782000" />
+      <workItem from="1657601237499" duration="4137000" />
+      <workItem from="1657678920976" duration="152000" />
+      <workItem from="1657684033433" duration="58000" />
+      <workItem from="1657684235100" duration="12222000" />
+      <workItem from="1657766769626" duration="14168000" />
+      <workItem from="1657851056714" duration="10092000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="52400000" />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+      <is-preview-enabled value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="632" y="25" width="954" height="970" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7968" visible="true" weight="0.2774123" />
+      <window_info id="Structure" order="1" sideWeight="0.2032" side_tool="true" weight="0.2774123" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50085473" side_tool="true" weight="0.26644737" />
+      <window_info id="Web" order="7" sideWeight="0.50085473" side_tool="true" weight="0.26644737" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49561402" visible="true" weight="0.2832569" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4989035" weight="0.32912844" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32912844" />
+      <window_info anchor="bottom" id="Spring" order="8" sideWeight="0.4989035" weight="0.32912844" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4989035" weight="0.38073394" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50438595" side_tool="true" weight="0.2832569" />
+      <window_info anchor="bottom" id="Grails Console" order="12" sideWeight="0.4989035" weight="0.32912844" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" sideWeight="0.4989035" weight="0.32912844" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="bottom" id="Messages" order="16" weight="0.32912844" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7968" visible="true" weight="0.2774123" />
+      <window_info id="Structure" order="1" sideWeight="0.2032" side_tool="true" visible="true" weight="0.2774123" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50085473" side_tool="true" weight="0.26644737" />
+      <window_info id="Web" order="7" sideWeight="0.50085473" side_tool="true" weight="0.26644737" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49561402" visible="true" weight="0.2832569" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4989035" weight="0.32912844" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32912844" />
+      <window_info anchor="bottom" id="Spring" order="8" sideWeight="0.4989035" weight="0.32912844" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4989035" weight="0.38073394" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50438595" side_tool="true" visible="true" weight="0.2832569" />
+      <window_info anchor="bottom" id="Grails Console" order="12" sideWeight="0.4989035" weight="0.32912844" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" sideWeight="0.4989035" weight="0.32912844" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="bottom" id="Messages" order="16" weight="0.32912844" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="TraitInjectorService">
+    <option name="state">
+      <map>
+        <entry key="latihan_integrationTest">
+          <value>
+            <StateHolder>
+              <option name="knownFactories">
+                <list>
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-databinding/3.1.3/9333f737237916530290e45df60e68c0402148e9/grails-web-databinding-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-rest/3.1.3/b3805720de1180bd0991ebe051bdf90c9e5e52b5/grails-plugin-rest-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-validation/3.1.3/228899dff7524f80ed49b9b3651d9ca6924d9b7a/grails-validation-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-codecs/3.1.3/dd95b1ced34f7287dd5540c547d6dd94a19c7d2b/grails-plugin-codecs-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web/3.1.3/af5723e204e9c77163290518d1af30c82087777b/grails-web-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-url-mappings/3.1.3/cdc4103fdb7259a0fd079c67565fadf8060a77d2/grails-web-url-mappings-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-core/3.1.3/e9effcdf39a4048b5aa66b89b47ea8574d6e1918/grails-core-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-taglib/3.1.3/206ceee5f51af0390774297d164828932ad430a9/grails-taglib-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-gsp/3.1.3/43a5f92eeb6d7b9365bb684945303bb44b864d1/grails-plugin-gsp-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-testing/3.1.3/6e712dfa99266f7844cff7de0caa2686a3200fe5/grails-plugin-testing-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/cache/3.0.2/519bc1bffb2afa10c93b92e872d49a5238e96558/cache-3.0.2.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-services/3.1.3/f0ef3c190fbe14f20a3c1ed6427d909778aa5cde/grails-plugin-services-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-datastore-gorm-support/5.0.2.RELEASE/1df45cfd2f8ee466878fed668937a6973f7a14de/grails-datastore-gorm-support-5.0.2.RELEASE.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-async/3.1.3/b30da030e08c6e4e0f16f8d120845faad980a85f/grails-plugin-async-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-url-mappings/3.1.3/cdc4103fdb7259a0fd079c67565fadf8060a77d2/grails-web-url-mappings-3.1.3.jar!/META-INF/services/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/hibernate4/5.0.2/3966f58f6edf39bce6b35ac5e1de67f39f614e7e/hibernate4-5.0.2.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-controllers/3.1.3/62786034aa1c3f6a785e338ed47b58df9c66e1a3/grails-plugin-controllers-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-domain-class/3.1.3/9df00a1ae394813c93cf6066346d6e77ea9daec7/grails-plugin-domain-class-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-common/3.1.3/1f2561da1607f114039ec1c6961ccde7fa49b3c0/grails-web-common-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-interceptors/3.1.3/ee37cb745f9b0fa2687da9dcbc543406d1eebd25/grails-plugin-interceptors-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-taglib/3.1.3/3629cafc340dcb3e044c08463797a98788a5af4d/grails-web-taglib-3.1.3.jar!/META-INF/grails.factories" />
+                </list>
+              </option>
+              <option name="traits">
+                <SerializableStringMultiMap>
+                  <option name="underlyingMap">
+                    <map>
+                      <entry key="Controller">
+                        <value>
+                          <list>
+                            <option value="grails.artefact.Controller" />
+                            <option value="grails.artefact.AsyncController" />
+                            <option value="grails.artefact.gsp.TagLibraryInvoker" />
+                            <option value="grails.artefact.controller.RestResponder" />
+                          </list>
+                        </value>
+                      </entry>
+                      <entry key="Domain">
+                        <value>
+                          <list>
+                            <option value="grails.artefact.DomainClass" />
+                            <option value="grails.web.databinding.WebDataBinding" />
+                            <option value="grails.gorm.Entity" />
+                          </list>
+                        </value>
+                      </entry>
+                      <entry key="Interceptor">
+                        <value>
+                          <list>
+                            <option value="grails.artefact.Interceptor" />
+                          </list>
+                        </value>
+                      </entry>
+                      <entry key="Service">
+                        <value>
+                          <list>
+                            <option value="grails.artefact.Service" />
+                          </list>
+                        </value>
+                      </entry>
+                      <entry key="TagLib">
+                        <value>
+                          <list>
+                            <option value="grails.artefact.TagLibrary" />
+                          </list>
+                        </value>
+                      </entry>
+                      <entry key="TagLibrary">
+                        <value>
+                          <list>
+                            <option value="grails.artefact.TagLibrary" />
+                          </list>
+                        </value>
+                      </entry>
+                    </map>
+                  </option>
+                </SerializableStringMultiMap>
+              </option>
+            </StateHolder>
+          </value>
+        </entry>
+        <entry key="latihan_main">
+          <value>
+            <StateHolder>
+              <option name="knownFactories">
+                <list>
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-databinding/3.1.3/9333f737237916530290e45df60e68c0402148e9/grails-web-databinding-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-rest/3.1.3/b3805720de1180bd0991ebe051bdf90c9e5e52b5/grails-plugin-rest-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-validation/3.1.3/228899dff7524f80ed49b9b3651d9ca6924d9b7a/grails-validation-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-codecs/3.1.3/dd95b1ced34f7287dd5540c547d6dd94a19c7d2b/grails-plugin-codecs-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web/3.1.3/af5723e204e9c77163290518d1af30c82087777b/grails-web-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-url-mappings/3.1.3/cdc4103fdb7259a0fd079c67565fadf8060a77d2/grails-web-url-mappings-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-core/3.1.3/e9effcdf39a4048b5aa66b89b47ea8574d6e1918/grails-core-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-taglib/3.1.3/206ceee5f51af0390774297d164828932ad430a9/grails-taglib-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-gsp/3.1.3/43a5f92eeb6d7b9365bb684945303bb44b864d1/grails-plugin-gsp-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/cache/3.0.2/519bc1bffb2afa10c93b92e872d49a5238e96558/cache-3.0.2.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-services/3.1.3/f0ef3c190fbe14f20a3c1ed6427d909778aa5cde/grails-plugin-services-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-datastore-gorm-support/5.0.2.RELEASE/1df45cfd2f8ee466878fed668937a6973f7a14de/grails-datastore-gorm-support-5.0.2.RELEASE.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-async/3.1.3/b30da030e08c6e4e0f16f8d120845faad980a85f/grails-plugin-async-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-url-mappings/3.1.3/cdc4103fdb7259a0fd079c67565fadf8060a77d2/grails-web-url-mappings-3.1.3.jar!/META-INF/services/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/hibernate4/5.0.2/3966f58f6edf39bce6b35ac5e1de67f39f614e7e/hibernate4-5.0.2.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-controllers/3.1.3/62786034aa1c3f6a785e338ed47b58df9c66e1a3/grails-plugin-controllers-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-domain-class/3.1.3/9df00a1ae394813c93cf6066346d6e77ea9daec7/grails-plugin-domain-class-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-common/3.1.3/1f2561da1607f114039ec1c6961ccde7fa49b3c0/grails-web-common-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-interceptors/3.1.3/ee37cb745f9b0fa2687da9dcbc543406d1eebd25/grails-plugin-interceptors-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-taglib/3.1.3/3629cafc340dcb3e044c08463797a98788a5af4d/grails-web-taglib-3.1.3.jar!/META-INF/grails.factories" />
+                </list>
+              </option>
+              <option name="traits">
+                <SerializableStringMultiMap>
+                  <option name="underlyingMap">
+                    <map>
+                      <entry key="Controller">
+                        <value>
+                          <list>
+                            <option value="grails.artefact.Controller" />
+                            <option value="grails.artefact.AsyncController" />
+                            <option value="grails.artefact.gsp.TagLibraryInvoker" />
+                            <option value="grails.artefact.controller.RestResponder" />
+                          </list>
+                        </value>
+                      </entry>
+                      <entry key="Domain">
+                        <value>
+                          <list>
+                            <option value="grails.artefact.DomainClass" />
+                            <option value="grails.web.databinding.WebDataBinding" />
+                            <option value="grails.gorm.Entity" />
+                          </list>
+                        </value>
+                      </entry>
+                      <entry key="Interceptor">
+                        <value>
+                          <list>
+                            <option value="grails.artefact.Interceptor" />
+                          </list>
+                        </value>
+                      </entry>
+                      <entry key="Service">
+                        <value>
+                          <list>
+                            <option value="grails.artefact.Service" />
+                          </list>
+                        </value>
+                      </entry>
+                      <entry key="TagLib">
+                        <value>
+                          <list>
+                            <option value="grails.artefact.TagLibrary" />
+                          </list>
+                        </value>
+                      </entry>
+                      <entry key="TagLibrary">
+                        <value>
+                          <list>
+                            <option value="grails.artefact.TagLibrary" />
+                          </list>
+                        </value>
+                      </entry>
+                    </map>
+                  </option>
+                </SerializableStringMultiMap>
+              </option>
+            </StateHolder>
+          </value>
+        </entry>
+        <entry key="latihan_test">
+          <value>
+            <StateHolder>
+              <option name="knownFactories">
+                <list>
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-databinding/3.1.3/9333f737237916530290e45df60e68c0402148e9/grails-web-databinding-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-rest/3.1.3/b3805720de1180bd0991ebe051bdf90c9e5e52b5/grails-plugin-rest-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-validation/3.1.3/228899dff7524f80ed49b9b3651d9ca6924d9b7a/grails-validation-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-codecs/3.1.3/dd95b1ced34f7287dd5540c547d6dd94a19c7d2b/grails-plugin-codecs-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web/3.1.3/af5723e204e9c77163290518d1af30c82087777b/grails-web-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-url-mappings/3.1.3/cdc4103fdb7259a0fd079c67565fadf8060a77d2/grails-web-url-mappings-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-core/3.1.3/e9effcdf39a4048b5aa66b89b47ea8574d6e1918/grails-core-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-taglib/3.1.3/206ceee5f51af0390774297d164828932ad430a9/grails-taglib-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-gsp/3.1.3/43a5f92eeb6d7b9365bb684945303bb44b864d1/grails-plugin-gsp-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-testing/3.1.3/6e712dfa99266f7844cff7de0caa2686a3200fe5/grails-plugin-testing-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/cache/3.0.2/519bc1bffb2afa10c93b92e872d49a5238e96558/cache-3.0.2.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-services/3.1.3/f0ef3c190fbe14f20a3c1ed6427d909778aa5cde/grails-plugin-services-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-datastore-gorm-support/5.0.2.RELEASE/1df45cfd2f8ee466878fed668937a6973f7a14de/grails-datastore-gorm-support-5.0.2.RELEASE.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-async/3.1.3/b30da030e08c6e4e0f16f8d120845faad980a85f/grails-plugin-async-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-url-mappings/3.1.3/cdc4103fdb7259a0fd079c67565fadf8060a77d2/grails-web-url-mappings-3.1.3.jar!/META-INF/services/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/hibernate4/5.0.2/3966f58f6edf39bce6b35ac5e1de67f39f614e7e/hibernate4-5.0.2.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-controllers/3.1.3/62786034aa1c3f6a785e338ed47b58df9c66e1a3/grails-plugin-controllers-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-domain-class/3.1.3/9df00a1ae394813c93cf6066346d6e77ea9daec7/grails-plugin-domain-class-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-common/3.1.3/1f2561da1607f114039ec1c6961ccde7fa49b3c0/grails-web-common-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-interceptors/3.1.3/ee37cb745f9b0fa2687da9dcbc543406d1eebd25/grails-plugin-interceptors-3.1.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-taglib/3.1.3/3629cafc340dcb3e044c08463797a98788a5af4d/grails-web-taglib-3.1.3.jar!/META-INF/grails.factories" />
+                </list>
+              </option>
+              <option name="traits">
+                <SerializableStringMultiMap>
+                  <option name="underlyingMap">
+                    <map>
+                      <entry key="Controller">
+                        <value>
+                          <list>
+                            <option value="grails.artefact.Controller" />
+                            <option value="grails.artefact.AsyncController" />
+                            <option value="grails.artefact.gsp.TagLibraryInvoker" />
+                            <option value="grails.artefact.controller.RestResponder" />
+                          </list>
+                        </value>
+                      </entry>
+                      <entry key="Domain">
+                        <value>
+                          <list>
+                            <option value="grails.artefact.DomainClass" />
+                            <option value="grails.web.databinding.WebDataBinding" />
+                            <option value="grails.gorm.Entity" />
+                          </list>
+                        </value>
+                      </entry>
+                      <entry key="Interceptor">
+                        <value>
+                          <list>
+                            <option value="grails.artefact.Interceptor" />
+                          </list>
+                        </value>
+                      </entry>
+                      <entry key="Service">
+                        <value>
+                          <list>
+                            <option value="grails.artefact.Service" />
+                          </list>
+                        </value>
+                      </entry>
+                      <entry key="TagLib">
+                        <value>
+                          <list>
+                            <option value="grails.artefact.TagLibrary" />
+                          </list>
+                        </value>
+                      </entry>
+                      <entry key="TagLibrary">
+                        <value>
+                          <list>
+                            <option value="grails.artefact.TagLibrary" />
+                          </list>
+                        </value>
+                      </entry>
+                    </map>
+                  </option>
+                </SerializableStringMultiMap>
+              </option>
+            </StateHolder>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/grails-app/views/index.gsp</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/grails-app/controllers/latihan/ServicesController.groovy</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/latihan/OrdersController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="58" column="9" lean-forward="true" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
+          <folding>
+            <element signature="e#17#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/login.gsp" />
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/latihan/OrderItemsController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/latihan/Orders.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/latihan/OrderItems.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/assets/images/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/assets/images/apple-touch-icon-retina.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/assets/images/apple-touch-icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/assets/images/grails-cupsonly-logo-white.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/assets/images/spinner.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/assets/javascripts/jquery-2.2.0.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/assets/javascripts/bootstrap.js" />
+    <entry file="file://$PROJECT_DIR$/grails-app/assets/javascripts/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-gsp/3.1.3/5bf5894ca48dcc990fd8884c4bafe58f64053471/grails-web-gsp-3.1.3-sources.jar!/org/grails/web/servlet/view/GroovyPageViewResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="209" selection-start-line="209" selection-end-line="209" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-gsp/3.1.3/5bf5894ca48dcc990fd8884c4bafe58f64053471/grails-web-gsp-3.1.3-sources.jar!/org/grails/web/servlet/view/GroovyPageView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="111" selection-start-line="111" selection-end-line="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-gsp/3.1.3/a47d23ba753fb80d19455cedf8a23fb6bfa5288d/grails-gsp-3.1.3-sources.jar!/org/grails/gsp/GroovyPagesTemplateEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="323" lean-forward="true" selection-start-line="323" selection-end-line="323" />
+          <folding>
+            <element signature="e#12026#12027#0" expanded="true" />
+            <element signature="e#12074#12075#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/assets/stylesheets/application.css" />
+    <entry file="file://$PROJECT_DIR$/grails-app/assets/stylesheets/bootstrap.css" />
+    <entry file="file://$PROJECT_DIR$/grails-app/assets/stylesheets/bootstrap-grid.min.css" />
+    <entry file="file://$PROJECT_DIR$/grails-app/assets/stylesheets/bootstrap.min.css" />
+    <entry file="file://$PROJECT_DIR$/grails-app/assets/stylesheets/bootstrap-grid.css" />
+    <entry file="file://$PROJECT_DIR$/grails-app/assets/stylesheets/bootstrap-reboot.css" />
+    <entry file="file://$PROJECT_DIR$/grails-app/assets/javascripts/bootstrap.bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/assets/stylesheet/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/assets/stylesheet/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/assets/stylesheet/application.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/assets/javascripts/bootstrap.bundle.min.js.map">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="70" column="8" selection-start-line="70" selection-start-column="8" selection-end-line="70" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/index.gsp" />
+    <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/error.gsp" />
+    <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/notFound.gsp" />
+    <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/main.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="33" column="27" lean-forward="true" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+          <folding>
+            <element signature="n#style#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/services/show.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/services/index.gsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/services/edit.gsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/services/create.gsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/latihan/ServicesController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-32">
+          <caret line="34" column="7" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/error.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="11" lean-forward="true" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/latihan/UrlMappings.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/latihan/Users.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#17#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/com/Latihan/MemberServicesServiceSpec.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/latihan/MerchantsControllerSpec.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/latihan/MerchantsController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="33" column="51" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/com/latihan/GlobalConfig.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/com/latihan/AppUtils.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="e#22#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/latihan/Merchants.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/latihan/Services.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/services/com/Latihan/UserService.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+          <folding>
+            <element signature="e#21#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/latihan/UsersController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Gradle : latihan : latihan-0.1.war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>latihan_main|latihan</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
